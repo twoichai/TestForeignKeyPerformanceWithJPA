@@ -1,0 +1,45 @@
+#1
+Execution time (in millis): 172.420000, Approach: Upsert with foreign key rewrite
+Execution time (in millis): 209.530000, Approach: Upsert
+Execution time (in millis): 227.710000, Approach: Rewrite
+
+#2
+Execution time (in millis): 261.820000, Approach: Upsert with foreign key rewrite
+Execution time (in millis): 231.800000, Approach: Upsert
+Execution time (in millis): 285.630000, Approach: Rewrite
+
+#3
+Execution time (in millis): 230.280000, Approach: Upsert with foreign key rewrite
+Execution time (in millis): 198.940000, Approach: Upsert
+Execution time (in millis): 265.340000, Approach: Rewrite
+
+#4
+Execution time (in millis): 234.190000, Approach: Upsert with foreign key rewrite
+Execution time (in millis): 278.230000, Approach: Upsert
+Execution time (in millis): 289.650000, Approach: Rewrite
+
+---
+
+#5
+Execution time (in millis): 2636.900000, Approach: Upsert with foreign key rewrite
+Execution time (in millis): 2804.400000, Approach: Upsert
+Execution time (in millis): 2618.300000, Approach: Rewrite
+
+#6
+Execution time (in millis): 2067.200000, Approach: Upsert with foreign key rewrite
+Execution time (in millis): 2173.700000, Approach: Upsert
+Execution time (in millis): 3130.300000, Approach: Rewrite
+
+#7
+Execution time (in millis): 1998.200000, Approach: Upsert with foreign key rewrite
+Execution time (in millis): 2151.200000, Approach: Upsert
+Execution time (in millis): 3152.900000, Approach: Rewrite
+
+--
+
+#8
+Execution time (in millis): 4797.700000, Approach: Upsert with foreign key rewrite
+Execution time (in millis): 4623.300000, Approach: Upsert
+Execution time (in millis): 7106.200000, Approach: Rewrite 22
+
+
